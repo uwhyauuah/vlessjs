@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@3kmfi6hp/nodejs-proxy": "^1.0.29",
+    "express": "^4.21.2",
     "nodemon": "^3.1.9",
     "uuid": "^11.1.0"
   }
